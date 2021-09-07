@@ -4,4 +4,4 @@
  Can you beat the _High Score_?!!
  Give it a try...
 
- This app is made using **readlineSync** library , it also used the **CHALK** library.
+ This app is made using **readlineSync** library , it also uses the **CHALK** library.
