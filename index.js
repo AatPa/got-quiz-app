@@ -1,6 +1,8 @@
 var readlineSync = require('readline-sync');
 var chalk = require('chalk'); 
+var username = readlineSync.question("Please tell your Name! ");
 
+console.log("Hi " + username + " Welcome to the Endgame ");
 // var curScore = chalk.bold.brown;
 var rightAns = chalk.bold.white.bgGreen;
 var wrongAns = chalk.bold.bgRed;
